@@ -12,5 +12,5 @@ in your servlet filter mappings, your specified servlet filters are applied.
 Hook elements `servlet-filter` and `servlet-filter-mapping` have been added to
 `liferay-hook.xml` so you can configure your servlet filters. For a working
 example, see the
-[sample-servlet-filter-hook](https://github.com/liferay/liferay-plugins/tree/master/hooks/sample-servlet-filter-hook)
+[sample-servlet-filter-hook](https://github.com/liferay/liferay-plugins/tree/6.1.x/hooks/sample-servlet-filter-hook)
 in the Plugin SDK. 
